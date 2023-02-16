@@ -1,0 +1,5 @@
+subset,AUROC,AUPRC,Sensitivity,Specificity,PPV,NPV
+Asian,0.771,0.802,1.0,0.286,0.5,1.0
+Hispanic,0.733,0.831,0.95,0.111,0.704,0.5
+Non-Hispanic Black,0.726,0.83,0.905,0.2,0.655,0.556
+Non-Hispanic White,0.658,0.718,0.949,0.202,0.641,0.724
