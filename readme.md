@@ -1,3 +1,6 @@
+Computer vision for specimen mammography
+=============================================
+
 This repository contains code to develop computer vision models that predict margin status of partial mastectomy specimens using intra-operative specimen mammography.
 
 1. Comparison of RadImageNet and ImageNet weights across 4 model architectures: search_rin.py
